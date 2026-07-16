@@ -29,9 +29,9 @@ Software Engineering Student | Front-End Developer
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yassamin.bagheri&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Yassamin-bagheri&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yassamin.bagheri&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yassamin-bagheri&theme=tokyonight)
 
 ---
 
